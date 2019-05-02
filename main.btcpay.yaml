@@ -5,8 +5,8 @@ resources:
   type: vm.jinja
   properties:
     ############  EDIT PROPERTY START HERE ##############
-    region: asia-northeast1
-    zone: asia-northeast1-b
+    region: asia-east2
+    zone: asia-east2-a
     vmtype: custom-1-7680-ext
     linuxType: ubuntu-1604-lts
     diskSizeGb: 500
